@@ -1,4 +1,4 @@
-# Sentiment-analysis-using-PhoBert
+# Sentiment analysis using PhoBert
 
 ## Data source:
 https://www.aivivn.com/contests/6
